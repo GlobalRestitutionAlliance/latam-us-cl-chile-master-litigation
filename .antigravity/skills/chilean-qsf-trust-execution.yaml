@@ -1,0 +1,25 @@
+skill:
+  id: "chilean-qsf-trust-execution"
+  name: "Chilean Qsf Trust Execution"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Qualified Settlement Fund Administration"
+
+description: >
+  Comprehensive methodology for chilean qsf trust execution in the context of
+  Republic of Chile restitution litigation against the United States. Leverages
+  1973 Coup (Track I/II), Pinochet Dictatorship Support and 1970-2026 of documented intervention.
+
+execution_protocol:
+  step_1: "Identify and authenticate primary source documents from Diario Oficial de la República de Chile, NARA, CIA CREST, and State Department archives."
+  step_2: "Establish chain of causation linking US intervention to specific quantifiable damages."
+  step_3: "Apply 1970-73 Covert Action, 1973 Coup, Rettig/Valech Reports to strip jurisdictional immunity for state commercial assets."
+  step_4: "Calculate compounded reparations quantum based on historical baseline compounded at 6.0%–7.5% to 2026."
+  step_5: "Structure QSF Trust (26 U.S.C. § 468B) for victim distribution and infrastructure recovery."
+
+authorities:
+  - "1973 Coup (Track I/II), Pinochet Dictatorship Support"
+  - "United Nations Charter, Article 94(1) and (2)"
+  - "Factory at Chorzów, 1928 P.C.I.J. (ser. A) No. 17 (Restitutio in Integrum)"
+  - "UN Convention on Jurisdictional Immunities of States and Their Property (UNCSI), Articles 12 & 19"
+  - "Foreign Sovereign Immunities Act (FSIA), 28 U.S.C. §§ 1605, 1610"
