@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+CL-HUM-01,Human Rights and Civil Liberties,1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+CL-HUM-02,Human Rights and Civil Liberties,Operation Condor participation,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+CL-HUM-03,Human Rights and Civil Liberties,Economic shock therapy and social impacts,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+CL-HUM-04,Human Rights and Civil Liberties,1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+CL-HUM-05,Human Rights and Civil Liberties,Operation Condor participation,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED

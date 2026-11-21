@@ -1,0 +1,104 @@
+vector_index:
+  jurisdiction: Chile
+  iso: CL
+  vectors:
+    - vector_id: "CL-001"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "CL-002"
+      anchor: "Operation Condor participation"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "CL-003"
+      anchor: "Economic shock therapy and social impacts"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "CL-004"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "CL-005"
+      anchor: "Operation Condor participation"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "CL-006"
+      anchor: "Economic shock therapy and social impacts"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "CL-007"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "CL-008"
+      anchor: "Operation Condor participation"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "CL-009"
+      anchor: "Economic shock therapy and social impacts"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "CL-010"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "CL-011"
+      anchor: "Operation Condor participation"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "CL-012"
+      anchor: "Economic shock therapy and social impacts"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "CL-013"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "CL-014"
+      anchor: "Operation Condor participation"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "CL-015"
+      anchor: "Economic shock therapy and social impacts"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "CL-016"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "CL-017"
+      anchor: "Operation Condor participation"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "CL-018"
+      anchor: "Economic shock therapy and social impacts"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "CL-019"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "CL-020"
+      anchor: "Operation Condor participation"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "CL-021"
+      anchor: "Economic shock therapy and social impacts"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "CL-022"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "CL-023"
+      anchor: "Operation Condor participation"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "CL-024"
+      anchor: "Economic shock therapy and social impacts"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "CL-025"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE

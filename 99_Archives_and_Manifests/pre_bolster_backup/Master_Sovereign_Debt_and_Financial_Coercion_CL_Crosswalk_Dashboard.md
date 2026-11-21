@@ -1,0 +1,22 @@
+# Chile - Sovereign Debt and Financial Coercion Crosswalk Dashboard
+
+**Jurisdiction:** US-CL Chile  
+**Sector:** Sovereign Debt and Financial Coercion  
+**Generated:** 2026-11-21
+
+## Anchors
+- 1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)
+- Operation Condor participation
+- Economic shock therapy and social impacts
+
+## Matrix
+| ID | Anchor | Evidence | Status |
+|---|---|---|---|
+| CL-SOV-01 | 1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records) | PENDING_PRIMARY_SOURCE | SCAFFOLDED |
+| CL-SOV-02 | Operation Condor participation | PENDING_PRIMARY_SOURCE | SCAFFOLDED |
+| CL-SOV-03 | Economic shock therapy and social impacts | PENDING_PRIMARY_SOURCE | SCAFFOLDED |
+| CL-SOV-04 | 1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records) | PENDING_PRIMARY_SOURCE | SCAFFOLDED |
+| CL-SOV-05 | Operation Condor participation | PENDING_PRIMARY_SOURCE | SCAFFOLDED |
+
+## Guardrail
+No fabricated citations or docket numbers. Primary-source verification required before filing use.

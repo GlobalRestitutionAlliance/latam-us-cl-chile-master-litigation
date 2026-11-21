@@ -1,0 +1,482 @@
+vector_index_block:
+  jurisdiction: Chile
+  iso: CL
+  block: 2
+  range: [96,190]
+  status: SCAFFOLDED_PENDING_VERIFICATION
+  vectors:
+    - vector_id: "CL-V-0096"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0097"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0098"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0099"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0100"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0101"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0102"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0103"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0104"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0105"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0106"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0107"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0108"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0109"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0110"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0111"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0112"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0113"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0114"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0115"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0116"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0117"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0118"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0119"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0120"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0121"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0122"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0123"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0124"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0125"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0126"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0127"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0128"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0129"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0130"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0131"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0132"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0133"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0134"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0135"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0136"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0137"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0138"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0139"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0140"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0141"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0142"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0143"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0144"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0145"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0146"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0147"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0148"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0149"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0150"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0151"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0152"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0153"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0154"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0155"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0156"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0157"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0158"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0159"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0160"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0161"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0162"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0163"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0164"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0165"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0166"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0167"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0168"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0169"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0170"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0171"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0172"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0173"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0174"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0175"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0176"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0177"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0178"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0179"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0180"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0181"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0182"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0183"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0184"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0185"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0186"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0187"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0188"
+      anchor: "Operation Condor participation"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0189"
+      anchor: "Economic shock therapy and social impacts"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true
+    - vector_id: "CL-V-0190"
+      anchor: "1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records)"
+      claim_vector: "Pending evidentiary development"
+      evidence_status: PENDING_PRIMARY_SOURCE
+      verification_required: true

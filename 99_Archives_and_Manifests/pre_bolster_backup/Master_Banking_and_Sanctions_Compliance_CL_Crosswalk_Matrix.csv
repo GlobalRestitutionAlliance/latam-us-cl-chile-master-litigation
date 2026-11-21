@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+CL-BAN-01,Banking and Sanctions Compliance,1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+CL-BAN-02,Banking and Sanctions Compliance,Operation Condor participation,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+CL-BAN-03,Banking and Sanctions Compliance,Economic shock therapy and social impacts,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+CL-BAN-04,Banking and Sanctions Compliance,1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+CL-BAN-05,Banking and Sanctions Compliance,Operation Condor participation,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED

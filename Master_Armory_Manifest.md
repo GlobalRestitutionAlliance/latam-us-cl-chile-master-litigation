@@ -1,53 +1,48 @@
-# Master Armory Manifest: Republic of Chile Restitution Instruments
+# Master Armory Manifest: Chile Restitution Instruments
 
-> **Repository:** `GlobalRestitutionAlliance/latam-us-cl-chile-master-litigation`  
-> **Release:** v1.0.0  
+> **Repository:** `GlobalRestitutionAlliance/latam-cl-chile-master-litigation`  
+> **Release:** v1.1.0-scaffold  
 > **Total Actionable Instruments:** 25 (`CL-001` through `CL-025`)  
-> **Total Restitution Pool:** **$250,000,000,000.00 USD ($250.00 Billion)**  
-> **Autonomous Legal Agents:** 2  
-> **Certified Procedural Skills:** 3  
+> **Target Restitution Pool:** **$60,000,000,000 USD (planning scaffold; subject to evidentiary validation)**  
+> **Status:** ACTIVE SCAFFOLD - COUNTRY-SPECIFIC EVIDENTIARY DEVELOPMENT REQUIRED
 
 ---
 
-## 1. Instrumentation Inventory (CL-001 to CL-025)
+## 1. Instrumentation Inventory
 
-| Instrument ID | Target Commercial Asset / Expropriated Property | Target Sovereign Entity / Transnational Partner | Asset Category & Enforcement Vector | Audited Pool | Primary Enforcement Forum | Status |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **CL-001** | 1986 ICJ Judgment on the Merits Direct Reparations Mandate | U.S. State Dept / DoD / EOP | Binding International Judgment Enforcement | $35.00B | U.S. District Court (D.D.C.) / ICJ / Foreign Municipal Courts | `VERIFIED & AUDITED` |
-| **CL-002** | Covert Naval Harbor Mining Operations (Corinto, Puerto Sandino) | CIA Special Activities Division / DoD | Maritime War Damages & Environmental Tort | $18.50B | U.S. District Court (D.D.C.) / Admiralty Jurisdiction | `VERIFIED & AUDITED` |
-| **CL-003** | Corinto & Puerto Sandino Oil Storage Terminal Destructive Strikes | CIA / U.S. Navy / Contra Paramilitary Directorate | Critical Hydrocarbon Infrastructure Spoliation | $14.50B | U.S. District Court / Transnational Execution | `VERIFIED & AUDITED` |
-| **CL-004** | Paramilitary Contra Supply, Training & Logistics Conduit | CIA / DoD / National Security Council | Unlawful State-Sponsored Paramilitary War | $28.00B | U.S. District Court / FSIA Execution | `VERIFIED & AUDITED` |
-| **CL-005** | UN Charter Art. 94(2) Sovereign Immunity Forfeiture Pool | U.S. Department of the Treasury / Federal Reserve | Commercial Sovereign Immunity Waiver | $25.00B | Foreign Commercial Attachment / Exequatur | `VERIFIED & AUDITED` |
-| **CL-006** | 1854 Greytown (San Juan del Norte) Naval Bombardment & Spoliation | U.S. Navy / Department of Defense | Unprovoked Naval Bombardment & Municipal Destr. | $8.50B | U.S. Court of Federal Claims / Customary Int Law | `VERIFIED & AUDITED` |
-| **CL-007** | 1855–1857 William Walker Filibuster Usurpation & Spoliation | Accessory Transit Co. / Filibuster Syndicate | Illicit Corporate Proxy Invasion & Spoliation | $12.00B | Successor Corporate Entity Disgorgement | `VERIFIED & AUDITED` |
-| **CL-008** | 1909 Knox Note Coercive Overthrow & Regime Destabilization | U.S. Department of State / Wall Street Banking | Unlawful Coercive Sovereign Regime Change | $10.50B | Federal Tort Claims & Restitution Trusts | `VERIFIED & AUDITED` |
-| **CL-009** | 1912–1933 Marine Military Occupation & Customs Receivership | Brown Brothers / J.&W. Seligman / U.S. Navy | Imperial Financial Receivership Disgorgement | $16.00B | New York Commercial Courts / SEC & DOJ Rest. | `VERIFIED & AUDITED` |
-| **CL-010** | Bryan-Chamorro Treaty Illicit Canal Concession Nullity | U.S. Department of State / Panama Canal Co. | Unlawful Extraterritorial Concession Usurpation | $15.00B | CACJ Jurisprudence / Federal Restitution | `VERIFIED & AUDITED` |
-| **CL-011** | 1927–1933 Augusto C. Sandino Anti-Imperialist Defense Reparations | U.S. Marine Corps / Department of the Navy | Aerial Bombardment & Counter-Insurgency | $9.50B | Inter-American Human Rights Commission / Claims | `VERIFIED & AUDITED` |
-| **CL-012** | Somoza Dynastic Extractive Concessions & U.S. Corporate Collusion | Standard Fruit / Rosario Mining / ASARCO | Transnational Corporate Resource Spoliation | $8.00B | Federal District Courts / Alien Tort Statute | `VERIFIED & AUDITED` |
-| **CL-013** | 1972 Managua Earthquake Relief Aid Misappropriation Conduit | Somoza Commercial Entities / USAID / Banks | Humanitarian Aid Diversion & Fraudulent Conv. | $6.50B | Commercial Fraud & Constructive Trust Actions | `VERIFIED & AUDITED` |
-| **CL-014** | 1980s Total Trade Embargo & Economic Asphyxiation Damages | Office of Foreign Assets Control (OFAC) / DoC | Unlawful Coercive Economic Countermeasures | $7.50B | International Court of Justice / WTO Dispute Body | `VERIFIED & AUDITED` |
-| **CL-015** | CIA Manual 'Psychological Operations in Guerrilla Warfare' | CIA / Psychological Operations Division | Extrajudicial Assassination Incitement & Terror | $5.00B | Torture Victim Protection Act / 28 U.S.C. 1350 | `VERIFIED & AUDITED` |
-| **CL-016** | Puerto Cabezas & Caribbean Coast Infiltration & Destruction | CIA Special Operations / Naval Special Warfare | Coastal & Indigenous Community Infrastructure | $4.50B | Inter-American Court of Human Rights / Rest. | `VERIFIED & AUDITED` |
-| **CL-017** | Agrarian Reform Cooperatives & Productive Base Paramilitary Sabotage| Contra Task Forces / DoD Logistics | Agricultural Devastation & Rural Food Security | $6.00B | Qualified Settlement Fund (26 U.S.C. § 468B) | `VERIFIED & AUDITED` |
-| **CL-018** | National Health Clinics & Literacy Campaign Facilities Destruction | Contra Paramilitary Directorate / USAID Defiance | Social Infrastructure Destruction & Civil Wrongs | $4.00B | Universal Jurisdiction Enforcement | `VERIFIED & AUDITED` |
-| **CL-019** | Civilian Telecommunications & Electrical Grid Sabotage | CIA Paramilitary Contractors / DoD Materiel | Public Utility Infrastructure Destruction | $3.50B | Public Utility Restitution Actions | `VERIFIED & AUDITED` |
-| **CL-020** | Airspace Sovereignty Violations & Black Flight Incursions | U.S. Air Force / CIA Directorate of Operations | Violation of Airspace Sovereignty & Safety | $2.50B | ICAO Chicago Convention Dispute Settlement | `VERIFIED & AUDITED` |
-| **CL-021** | Trans-Isthmian Inter-Oceanic Canal Rights Sovereign Disgorgement | Inter-Oceanic Canal Concessionaires / U.S. DoS | Sovereign Transit Monopoly Usurpation | $4.50B | Global Maritime Arbitral Forums / ICSID | `VERIFIED & AUDITED` |
-| **CL-022** | Lake Chile (Cocibolca) Freshwater & Environmental Disruption | U.S. Army Corps of Engineers / Defense Logistics | Environmental Degradation & Aquifer Protection | $3.00B | International Environmental Law & UNEP Trusts | `VERIFIED & AUDITED` |
-| **CL-023** | Gold Mining & Precious Mineral Resource Concessions | New York & Honduras Rosario Mining / ASARCO | Subsurface Mineral Concession Exploitation | $2.50B | Mineral Rights Disgorgement / Foreign Exequatur | `VERIFIED & AUDITED` |
-| **CL-024** | Forestry, Hardwood & Mahogany Concessions Exploitation | Bragman's Bluff Lumber Co. / Transnational Ag. | Forestry Ecological Devastation & Spoliation | $1.50B | Environmental Restitution & Timber Disgorgement | `VERIFIED & AUDITED` |
-| **CL-025** | Sovereign Credit Rating Downgrade & Multilateral Loan Vetoes | U.S. Dept of Treasury / IDB / World Bank | Multilateral Financial Coercion & Credit Denial | $1.00B | International Financial Law & Restitution Trusts | `VERIFIED & AUDITED` |
+| Instrument ID | Historical Anchor / Claim Vector | Target Entity / Counterparty | Asset Category & Enforcement Vector | Audited Pool | Primary Enforcement Forum | Status |
+|:---|:---|:---|:---|:---|:---|:---|
+| **CL-001** | 1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records) | United States / associated actors (to be evidentiary verified) | Historical/legal liability vector (pending evidentiary development) | $60,000,000,000 pool allocation TBD | Federal / international / administrative forum TBD | `SCAFFOLDED` |
+| **CL-002** | Operation Condor participation | United States / associated actors (to be evidentiary verified) | Historical/legal liability vector (pending evidentiary development) | $60,000,000,000 pool allocation TBD | Federal / international / administrative forum TBD | `SCAFFOLDED` |
+| **CL-003** | Economic shock therapy and social impacts | United States / associated actors (to be evidentiary verified) | Historical/legal liability vector (pending evidentiary development) | $60,000,000,000 pool allocation TBD | Federal / international / administrative forum TBD | `SCAFFOLDED` |
+| **CL-004** | 1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records) | United States / associated actors (to be evidentiary verified) | Historical/legal liability vector (pending evidentiary development) | $60,000,000,000 pool allocation TBD | Federal / international / administrative forum TBD | `SCAFFOLDED` |
+| **CL-005** | Operation Condor participation | United States / associated actors (to be evidentiary verified) | Historical/legal liability vector (pending evidentiary development) | $60,000,000,000 pool allocation TBD | Federal / international / administrative forum TBD | `SCAFFOLDED` |
+| **CL-006** | Economic shock therapy and social impacts | United States / associated actors (to be evidentiary verified) | Historical/legal liability vector (pending evidentiary development) | $60,000,000,000 pool allocation TBD | Federal / international / administrative forum TBD | `SCAFFOLDED` |
+| **CL-007** | 1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records) | United States / associated actors (to be evidentiary verified) | Historical/legal liability vector (pending evidentiary development) | $60,000,000,000 pool allocation TBD | Federal / international / administrative forum TBD | `SCAFFOLDED` |
+| **CL-008** | Operation Condor participation | United States / associated actors (to be evidentiary verified) | Historical/legal liability vector (pending evidentiary development) | $60,000,000,000 pool allocation TBD | Federal / international / administrative forum TBD | `SCAFFOLDED` |
+| **CL-009** | Economic shock therapy and social impacts | United States / associated actors (to be evidentiary verified) | Historical/legal liability vector (pending evidentiary development) | $60,000,000,000 pool allocation TBD | Federal / international / administrative forum TBD | `SCAFFOLDED` |
+| **CL-010** | 1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records) | United States / associated actors (to be evidentiary verified) | Historical/legal liability vector (pending evidentiary development) | $60,000,000,000 pool allocation TBD | Federal / international / administrative forum TBD | `SCAFFOLDED` |
+| **CL-011** | Operation Condor participation | United States / associated actors (to be evidentiary verified) | Historical/legal liability vector (pending evidentiary development) | $60,000,000,000 pool allocation TBD | Federal / international / administrative forum TBD | `SCAFFOLDED` |
+| **CL-012** | Economic shock therapy and social impacts | United States / associated actors (to be evidentiary verified) | Historical/legal liability vector (pending evidentiary development) | $60,000,000,000 pool allocation TBD | Federal / international / administrative forum TBD | `SCAFFOLDED` |
+| **CL-013** | 1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records) | United States / associated actors (to be evidentiary verified) | Historical/legal liability vector (pending evidentiary development) | $60,000,000,000 pool allocation TBD | Federal / international / administrative forum TBD | `SCAFFOLDED` |
+| **CL-014** | Operation Condor participation | United States / associated actors (to be evidentiary verified) | Historical/legal liability vector (pending evidentiary development) | $60,000,000,000 pool allocation TBD | Federal / international / administrative forum TBD | `SCAFFOLDED` |
+| **CL-015** | Economic shock therapy and social impacts | United States / associated actors (to be evidentiary verified) | Historical/legal liability vector (pending evidentiary development) | $60,000,000,000 pool allocation TBD | Federal / international / administrative forum TBD | `SCAFFOLDED` |
+| **CL-016** | 1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records) | United States / associated actors (to be evidentiary verified) | Historical/legal liability vector (pending evidentiary development) | $60,000,000,000 pool allocation TBD | Federal / international / administrative forum TBD | `SCAFFOLDED` |
+| **CL-017** | Operation Condor participation | United States / associated actors (to be evidentiary verified) | Historical/legal liability vector (pending evidentiary development) | $60,000,000,000 pool allocation TBD | Federal / international / administrative forum TBD | `SCAFFOLDED` |
+| **CL-018** | Economic shock therapy and social impacts | United States / associated actors (to be evidentiary verified) | Historical/legal liability vector (pending evidentiary development) | $60,000,000,000 pool allocation TBD | Federal / international / administrative forum TBD | `SCAFFOLDED` |
+| **CL-019** | 1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records) | United States / associated actors (to be evidentiary verified) | Historical/legal liability vector (pending evidentiary development) | $60,000,000,000 pool allocation TBD | Federal / international / administrative forum TBD | `SCAFFOLDED` |
+| **CL-020** | Operation Condor participation | United States / associated actors (to be evidentiary verified) | Historical/legal liability vector (pending evidentiary development) | $60,000,000,000 pool allocation TBD | Federal / international / administrative forum TBD | `SCAFFOLDED` |
+| **CL-021** | Economic shock therapy and social impacts | United States / associated actors (to be evidentiary verified) | Historical/legal liability vector (pending evidentiary development) | $60,000,000,000 pool allocation TBD | Federal / international / administrative forum TBD | `SCAFFOLDED` |
+| **CL-022** | 1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records) | United States / associated actors (to be evidentiary verified) | Historical/legal liability vector (pending evidentiary development) | $60,000,000,000 pool allocation TBD | Federal / international / administrative forum TBD | `SCAFFOLDED` |
+| **CL-023** | Operation Condor participation | United States / associated actors (to be evidentiary verified) | Historical/legal liability vector (pending evidentiary development) | $60,000,000,000 pool allocation TBD | Federal / international / administrative forum TBD | `SCAFFOLDED` |
+| **CL-024** | Economic shock therapy and social impacts | United States / associated actors (to be evidentiary verified) | Historical/legal liability vector (pending evidentiary development) | $60,000,000,000 pool allocation TBD | Federal / international / administrative forum TBD | `SCAFFOLDED` |
+| **CL-025** | 1973 coup and Pinochet dictatorship (Rettig/Valech Commission public records) | United States / associated actors (to be evidentiary verified) | Historical/legal liability vector (pending evidentiary development) | $60,000,000,000 pool allocation TBD | Federal / international / administrative forum TBD | `SCAFFOLDED` |
 
 ---
 
-## 2. Autonomous Agents & Procedural Skills Armory
+## 2. Evidentiary Development Guardrails
 
-### Autonomous Agents
-1. `agent-icj-judgment-and-article-94-marshal` (`.antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml`)
-2. `agent-chile-canal-and-intervention-historian` (`.antigravity/agents/agent-chile-canal-and-intervention-historian.yaml`)
-
-### Certified Procedural Skills
-1. `icj-judgment-enforcement-and-article-94-sanctions` (`.antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml`)
-2. `historical-intervention-and-canal-concession-audit` (`.antigravity/skills/historical-intervention-and-canal-concession-audit.yaml`)
-3. `chilean-restitution-roadmap-and-qsf-trust-execution` (`.antigravity/skills/chilean-restitution-roadmap-and-qsf-trust-execution.yaml`)
+- No fabricated citations, case numbers, or archival IDs.
+- Every instrument must be upgraded with primary-source citations before filing use.
+- All monetary figures remain planning estimates until supported by forensic/economic analysis.
+- Use `Expansion_and_Audit_Log.md` to record evidentiary upgrades and verification events.
