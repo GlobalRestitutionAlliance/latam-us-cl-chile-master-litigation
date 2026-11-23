@@ -1,0 +1,17 @@
+{
+  "url": "https://nsarchive.gwu.edu/project/chile-documentation-project",
+  "final_url": "https://nsarchive.gwu.edu/project/chile-documentation-project",
+  "title": "National Security Archive - Chile",
+  "fetched_at": "2026-11-23T15:32:06.423657Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 52474,
+  "sha256": "f1226261fa7cb12932ab934aa91f9b6a400cee3536b79334a685d20fce4d2684",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
